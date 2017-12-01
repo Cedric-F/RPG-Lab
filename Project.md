@@ -70,19 +70,15 @@ Character's stats:
 
 
 Story:
-* Scripted Scenario. __Thoughts: Multiple possible endings__. Likely
+* [x] Scripted Scenario. __Thoughts: Multiple possible endings__. Likely
   * Quests
-    * Main storyline.
-    * Sidequests.
+      * Main storyline.
+      * Sidequests.
 
- -or-
+* [ ] Totally random events:
+	* Requires a huge "database" of events to avoid redundance. Unlikely.
 
-* Totally random events:
-		* Requires a huge "database" of events to avoid redundance. Unlikely.
-
- -or-
-
-* __Story ? Duck it!__. Very likely
+* [ ] __Story ? Duck it!__. Very likely
 
 ---
 
@@ -120,11 +116,11 @@ Locations:
 
 Inventory system:
 
-* Limited number of item slots.
+* [x] Limited number of item slots.
 	* Stackable items such as potions and scrolls.
-* Limited weigth:
+* [ ] Limited weigth:
 		* Requires a weigth attribute to each "item" object.
-* Unlimited inventory space.
+* [ ] Unlimited inventory space.
 
 ---
 
