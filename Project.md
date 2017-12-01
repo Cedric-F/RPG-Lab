@@ -98,7 +98,7 @@ Locations:
 	    * High tier Merchants
 	  * Capital (Tier 4)
 	    * Extreme tier Merchants
-  * PvE
+  * PvE (Night/Day cycle)
       * Tundra
         * Common: monsters spawns
           * Wildlife
