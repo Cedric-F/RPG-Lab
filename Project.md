@@ -130,6 +130,8 @@ Combat system:
     * Timed spawns:
     	* Check player's situation. If in combat, don't spawn another monster. In not in combat => math.rand() => hits a specific number => event.
 	* Dice rolls:
+annoba: What dice roll type to use:
+I recommend a bell curve or approximation of it. So at least 2 dice, so the lower and higher numbers decrease in probability.
 		* Hit chances
 			* Normal hit: common
 			* Fail: common
